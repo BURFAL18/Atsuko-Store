@@ -4,8 +4,9 @@ const Banner=(props)=>
 {
     return (
       <>
-        <img src={props.img} class="img-fluid"alt="Responsive image"></img>
-        
+        <div className="banner">
+          <img src={props.img} class="img-fluid" alt="Responsive image"></img>
+        </div>
       </>
     );
 }
