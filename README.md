@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+![Author](https://img.shields.io/badge/author-Brijesh%20Burfal-lightgrey.svg?colorB=9900cc&style=flat-square)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ATSUKO STORE (ANIME BASED CLOTHING STORE)
+### Deployed Website Link: [Atsuko]
 
-## Available Scripts
+## HOME PAGE
+![home2](https://user-images.githubusercontent.com/56060354/100554464-d132b800-32ba-11eb-9617-7e32c6b102f9.png)
 
-In the project directory, you can run:
+## HOODIES SECTION
+![hoodies](https://user-images.githubusercontent.com/56060354/100554473-d7289900-32ba-11eb-8ff3-1ec51ff11efa.png)
 
-### `npm start`
+## TRENDING SECTION
+![shirt](https://user-images.githubusercontent.com/56060354/100554474-d859c600-32ba-11eb-99a7-09fd1794c46f.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## DARK COLLECTIONS 
+![Screenshot from 2020-11-30 03-15-16](https://user-images.githubusercontent.com/56060354/100554470-d5f76c00-32ba-11eb-9846-d0a4265d96ea.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## ANIME MASKS
+![masl](https://user-images.githubusercontent.com/56060354/100554472-d6900280-32ba-11eb-85a4-377945553330.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## FOOTER 
+![footer](https://user-images.githubusercontent.com/56060354/100554468-d4c63f00-32ba-11eb-8ddc-5c027a00df65.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Refier Web uses a number of open source projects to work properly:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [ReactJs] - HTML enhanced for web apps!
+* [Bootstrap] - great UI boilerplate for modern web apps
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ [Atsuko]:<https://burfal18.github.io/Atsuko-Store>
