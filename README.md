@@ -21,10 +21,13 @@
 ## FOOTER 
 ![footer](https://user-images.githubusercontent.com/56060354/100554468-d4c63f00-32ba-11eb-8ddc-5c027a00df65.png)
 
+### About the name ATSUKO 
+ATSUKO means Kindness or warmth in Japanese .
+
 
 ### Tech
 
-Refier Web uses a number of open source projects to work properly:
+ATSUKO STORE uses a number of open source projects to work properly:
 
 * [ReactJs] - HTML enhanced for web apps!
 * [Bootstrap] - great UI boilerplate for modern web apps
